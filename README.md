@@ -1,0 +1,1 @@
+This repository demonstrates a common Node.js error: the 'port already in use' error. The `bug.js` file contains the erroneous code that attempts to start a server on port 8080, which might fail if the port is occupied. The `bugSolution.js` file shows how to handle this error gracefully using asynchronous operations and error handling.
